@@ -39,7 +39,7 @@ Beyond the classroom, I've led teams as a **Videography Director and Photographe
 ## 🚀 Featured Projects
 
 ### 1. **QR Generator** - Privacy-First QR Toolkit
-**[Live Demo](https://qr.rishabhj.in/) | [GitHub](https://github.com/rishabhh0001/qr-generator)**
+**[Live Deployment](https://qr.rishabhj.in/) | [GitHub - Private](https://github.com/rishabhh0001/qr-generator)**
 
 A powerful, privacy-first QR code generation toolkit that runs entirely **client-side** with zero tracking or server-side processing.
 
@@ -56,7 +56,7 @@ A powerful, privacy-first QR code generation toolkit that runs entirely **client
 ---
 
 ### 2. **Forest Fire Detection System** - IoT & Sensor Networks
-**[Demo](https://forestguard.rishabhj.in/) | Status: In Progress**
+**[Live Deployment](https://forestguard.rishabhj.in/) | Status: In Progress**
 
 A cost-effective **Wireless Sensor Network (WSN)** system designed for autonomous forest fire detection in remote areas.
 
@@ -87,7 +87,7 @@ The **first visual audit tool for AI-generated codebases**. CodeCanopy transform
 - 📡 Live VS Code repo livestream (weather changes with real PRs)
 
 **Smart Features:**
-- **LOD Vibe System:** Efficient token usage - summaries on load for top directories, deep analysis on hover (1.5s+)
+- **LOD Vibe System:** Efficient token usage
 - **Web App + CLI:** To visualize any repo locally
 - **Non-technical Friendly:** Visual metaphors make code health legible to everyone
 
