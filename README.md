@@ -121,7 +121,7 @@ The **first visual audit tool for AI-generated codebases**. CodeCanopy transform
 
 - 🌐 **Portfolio:** [rishabhj.in](https://www.rishabhj.in/)
 - 💼 **LinkedIn:** [linkedin.com/in/rishabhh0001](https://www.linkedin.com/in/rishabhh0001/)
-- 📧 **Email:** [Let's connect!](mailto:your-email@example.com)
+- 📧 **Email:** [Let's connect!](mailto:rishabh.joshi260905@gmail.com)
 - 🐙 **GitHub:** [github.com/rishabhh0001](https://github.com/rishabhh0001)
 
 ---
