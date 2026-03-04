@@ -103,7 +103,6 @@ The **first visual audit tool for AI-generated codebases**. CodeCanopy transform
 - 🎥 Directed and produced high-quality video content for university events
 - 📸 Photography for promotional and event coverage
 - 👥 Managed creative teams in high-pressure, deadline-driven environments
-- 🎯 Delivered exceptional results consistently
 
 **What I Learned:** Project management, team coordination, creative problem-solving, and the power of visual storytelling.
 
@@ -123,14 +122,6 @@ The **first visual audit tool for AI-generated codebases**. CodeCanopy transform
 - 💼 **LinkedIn:** [linkedin.com/in/rishabhh0001](https://www.linkedin.com/in/rishabhh0001/)
 - 📧 **Email:** [Let's connect!](mailto:rishabh.joshi260905@gmail.com)
 - 🐙 **GitHub:** [github.com/rishabhh0001](https://github.com/rishabhh0001)
-
----
-
-## 💡 Philosophy
-
-> *"I believe that the best engineers are also great communicators."*
-
-I combine technical expertise with creative storytelling to build solutions that not only work but also inspire and connect with people.
 
 ---
 
