@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Rishabh
+# 👋 Hey there! I'm [Rishabh](https://www.rishabhj.in/).
 
 > **Engineering Student | Web Developer | AI Enthusiast | Videographer**
 > 
