@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm [Rishabh](https://www.rishabhj.in/).
 
-> **Engineering Student | Web Developer | AI Enthusiast | Videographer**
+> **Engineering Student | Web Developer | AI Enthusiast**
 > 
 > Passionate about building innovative solutions with a blend of technical excellence and creative storytelling.
 
