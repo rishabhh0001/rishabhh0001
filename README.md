@@ -127,7 +127,7 @@ The **first visual audit tool for AI-generated codebases**. CodeCanopy transform
 
 ## 🌱 Currently Learning
 
-- 🤖 **Generative AI** - Exploring LLMs and prompt engineering
+- 🤖 **Agentic AI** - Exploring LLMs and workflow engineering
 - ☁️ **Google Cloud Platform** - Building scalable cloud solutions
 - 🔬 **Advanced AI/ML** - Deep learning and practical applications
 
