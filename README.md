@@ -38,7 +38,22 @@ Beyond the classroom, I've led teams as a **Videography Director and Photographe
 
 ## 🚀 Featured Projects
 
-### 1. **QR Generator** - Privacy-First QR Toolkit
+### 1. **SNUGPT** - Unofficial University Assistant
+**[Live Deployment](https://snugpt.rishabhj.in/) | [GitHub](https://github.com/rishabhh0001/snugpt)**
+
+Your unofficial university assistant for all student queries, built using a retrieval-augmented generation pipeline.
+
+**Highlights:**
+- 🎓 University-focused assistant for academics and student workflows
+- 🧠 RAG-powered answers for accurate, context-aware responses
+- 🗂️ Vector embeddings + database-backed retrieval pipeline
+- ⚡ Fast web experience with modern full-stack architecture
+
+**Tech Stack:** TypeScript • Python • LangChain • ChromaDB • Neon Postgres • RAG
+
+---
+
+### 2. **QR Generator** - Privacy-First QR Toolkit
 **[Live Deployment](https://qr.rishabhj.in/) | [GitHub - Private](https://github.com/rishabhh0001/qr-generator)**
 
 A powerful, privacy-first QR code generation toolkit that runs entirely **client-side** with zero tracking or server-side processing.
@@ -55,7 +70,7 @@ A powerful, privacy-first QR code generation toolkit that runs entirely **client
 
 ---
 
-### 2. **Music Visualizer & Equalizer** - @rishabh0001/visualizer
+### 3. **Music Visualizer & Equalizer** - @rishabh0001/visualizer
 **[Live Deployment](https://music.rishabhj.in/) | [GitHub](https://github.com/rishabhh0001/visualizer)**
 
 An interactive music visualizer and equalizer application that transforms audio into stunning real-time visual experiences.
@@ -72,7 +87,7 @@ An interactive music visualizer and equalizer application that transforms audio 
 
 ---
 
-### 3. **Forest Fire Detection System** - IoT & Sensor Networks
+### 4. **Forest Fire Detection System** - IoT & Sensor Networks
 **[Live Deployment](https://forestguard.rishabhj.in/) | Status: In Progress**
 
 A cost-effective **Wireless Sensor Network (WSN)** system designed for autonomous forest fire detection in remote areas.
@@ -91,7 +106,7 @@ A cost-effective **Wireless Sensor Network (WSN)** system designed for autonomou
 
 ---
 
-### 4. **CodeCanopy** - Visual Audit Tool for AI Era 🌳
+### 5. **CodeCanopy** - Visual Audit Tool for AI Era 🌳
 **Status: Major WIP | Coming Soon**
 
 The **first visual audit tool for AI-generated codebases**. CodeCanopy transforms any GitHub repository into a procedurally generated 3D island ecosystem.
