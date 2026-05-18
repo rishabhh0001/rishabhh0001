@@ -41,15 +41,17 @@ Beyond the classroom, I've led teams as a **Videography Director and Photographe
 ### 1. **SNUGPT** - Unofficial University Assistant
 **[Live Deployment](https://snugpt.rishabhj.in/) | [GitHub](https://github.com/rishabhh0001/snugpt)**
 
-Your unofficial university assistant for all student queries, built using a retrieval-augmented generation pipeline.
+Your unofficial university assistant for all student queries, built using a retrieval-augmented generation pipeline for fast, context-aware information.
 
 **Highlights:**
 - 🎓 University-focused assistant for academics and student workflows
-- 🧠 RAG-powered answers for accurate, context-aware responses
-- 🗂️ Vector embeddings + database-backed retrieval pipeline
+- 🧠 RAG-powered responses grounded in institutional knowledge and deep context retrieval
+- 🗂️ Vector `nv-embedqa-e5-v5` embeddings + ChromaDB-backed retrieval pipeline
 - ⚡ Fast web experience with modern full-stack architecture
+- 🛡️ Built-in guardrails aligned with academic integrity and institutional use cases
+- 💾 Persistent memory and session tracking backed by Neon PostgreSQL
 
-**Tech Stack:** TypeScript • Python • LangChain • ChromaDB • Neon Postgres • RAG
+**Tech Stack:** TypeScript • Python • Nextjs 14 • FastAPI • RAG • LangChain • ChromaDB • Neon PostgreSQL • Tailwind CSS • Framer Motion
 
 ---
 
