@@ -37,9 +37,18 @@ Beyond the classroom, I've led teams as a **Videography Director and Photographe
 ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ### Design & Tools
-![Web Design](https://img.shields.io/badge/-Web%20Design-FF6B9D?style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat)
 ![Photography](https://img.shields.io/badge/-Photography-000000?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Development
+![AI Developer](https://img.shields.io/badge/-AI%20Developer-8B5CF6?style=flat)
+![Frontend Developer](https://img.shields.io/badge/-Frontend%20Developer-06B6D4?style=flat)
+![Backend Developer](https://img.shields.io/badge/-Backend%20Developer-0F172A?style=flat)
+![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-111827?style=flat)
+
 
 ---
 
