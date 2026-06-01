@@ -27,6 +27,13 @@ Beyond the classroom, I've led teams as a **Videography Director and Photographe
 ### Backend & AI
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6B6B?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-8B5CF6?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-3B82F6?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/-Neon-00E599?style=flat)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ### Design & Tools
