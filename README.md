@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-I'm a **B.Tech student in Electrical and Computer Engineering** at **Shiv Nadar University**, currently pursuing a **minor in Artificial Intelligence** from **IIT Ropar**. I'm upskilling in **Agentic AI** and **Google Cloud Platform** because I believe the best engineers are also great communicators.
+I'm a **B.Tech student in Electrical and Computer Engineering** at **Shiv Nadar University**. I am actively upskilling in **Agentic AI** and **Google Cloud Platform** because I believe the best engineers are also great communicators.
 
 Beyond the classroom, I've led teams as a **Videography Director and Photographer** for university events (Cultural Committee, TEDx, Breeze), where I learned to manage high-pressure environments and deliver exceptional results on deadlines.
 
