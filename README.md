@@ -8,9 +8,12 @@
 
 ## 🎯 About Me
 
-I'm a **B.Tech student in Electrical and Computer Engineering** at **Shiv Nadar University**. I am actively upskilling in **Agentic AI** and **Google Cloud Platform** because I believe the best engineers are also great communicators.
+**Third-year ECE student at Shiv Nadar University** building **AI and CV** applications with RAG-based projects like **SNUGPT**—a conversational AI for university knowledge using LangChain, ChromaDB, and Llama 3.1. I'm upskilling in **Generative AI**, **Google Cloud** and currently focused on developing practical AI solutions.A Strong communicator who ships quality work on tight deadlines. 
+I'm constantly exploring new tools and trends to grow as a **Full-stack developer** and **AI systems engineer**. I’m eager to apply my technical skills to real-world problems. 
 
-Beyond the classroom, I've led teams as a **Videography Director and Photographer** for university events (Cultural Committee, TEDx, Breeze), where I learned to manage high-pressure environments and deliver exceptional results on deadlines.
+Let’s connect!
+
+www.rishabhj.in
 
 ---
 
