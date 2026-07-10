@@ -57,7 +57,24 @@ www.rishabhj.in
 
 ## 🚀 Featured Projects
 
-### 1. **SNUGPT** - Unofficial University Assistant
+### 1. **EventPass** - Secure Ticketing & Event OS
+**[Live Deployment](https://eventpass.rishabhj.in/) | [GitHub - Private](https://github.com/rishabhh0001/gatepass)**
+
+A modern operating system for event gates, delivering cryptographic ticket security and zero-latency check-ins for high-scale events.
+
+**Highlights:**
+- 🔒 Cryptographically signed tickets to instantly reject forged QR codes and duplicate screenshots at the gate
+- ⚡ Kiosk Mode featuring a specialized distraction-free UI for high-throughput self check-ins
+- 📊 Real-time pulse dashboard syncing across all gate devices to track arrival velocity and adapt resources
+- 👥 Granular access control to segment guests by tiers (VIP, Backstage) and restrict volunteer access
+- 📡 Built-in offline resilience that caches scans during network drops and syncs automatically when reconnected
+- 🎨 Premium, glassmorphic SaaS interface optimized for dark mode
+
+**Tech Stack:** Next.js 14 • TypeScript • React • Tailwind CSS • Framer Motion • Supabase • Lucide Icons
+
+---
+
+### 2. **SNUGPT** - Unofficial University Assistant
 **[Live Deployment](https://snugpt.rishabhj.in/) | [GitHub](https://github.com/rishabhh0001/snugpt)**
 
 Your unofficial university assistant for all student queries, built using a retrieval-augmented generation pipeline for fast, context-aware information.
@@ -74,7 +91,7 @@ Your unofficial university assistant for all student queries, built using a retr
 
 ---
 
-### 2. **QR Generator** - Privacy-First QR Toolkit
+### 3. **QR Generator** - Privacy-First QR Toolkit
 **[Live Deployment](https://qr.rishabhj.in/) | [GitHub - Private](https://github.com/rishabhh0001/qr-generator)**
 
 A powerful, privacy-first QR code generation toolkit that runs entirely **client-side** with zero tracking or server-side processing.
@@ -91,7 +108,7 @@ A powerful, privacy-first QR code generation toolkit that runs entirely **client
 
 ---
 
-### 3. **Music Visualizer & Equalizer** - @rishabh0001/visualizer
+### 4. **Music Visualizer & Equalizer** - @rishabh0001/visualizer
 **[Live Deployment](https://music.rishabhj.in/) | [GitHub](https://github.com/rishabhh0001/visualizer)**
 
 An interactive music visualizer and equalizer application that transforms audio into stunning real-time visual experiences.
@@ -108,7 +125,7 @@ An interactive music visualizer and equalizer application that transforms audio 
 
 ---
 
-### 4. **Forest Fire Detection System** - IoT & Sensor Networks
+### 5. **Forest Fire Detection System** - IoT & Sensor Networks
 **[Live Deployment](https://forestguard.rishabhj.in/) | Status: In Progress**
 
 A cost-effective **Wireless Sensor Network (WSN)** system designed for autonomous forest fire detection in remote areas.
